@@ -1,3 +1,5 @@
 .body {
-    background-color: red;
+    background-image: url(https://www.ottoportland.com/uploads/images/homepage/_piePhotoSmall/Mashed-Potato-Bacon-and-Scallion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
